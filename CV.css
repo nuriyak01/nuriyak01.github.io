@@ -1,0 +1,165 @@
+body{
+	margin:0 auto; 
+	min-height:800px;
+}
+.main{
+	display:flex;
+	background-color:#DDA6A3;
+	color:white; 
+	margin-left:100px;
+	margin-right:100px;
+	padding-bottom:10px;
+}
+#photo{
+	border-radius:50%;
+	margin-left:100px;
+	margin-top:15px;
+	position:relative;
+
+	
+
+}
+img{
+	border-radius:5%;
+	margin-left:1px;
+	margin-top:15px;
+}
+#para1{
+	margin-left:100px;
+	font-size:40px;
+	margin-bottom:0;
+	letter-spacing:2px;
+	word-spacing:10px;
+	margin-top:25px;
+
+	margin-right:150px;
+	
+
+}
+
+#para2{
+	font-size:20px;
+	margin-left:100px;
+	margin-top:0px;
+	letter-spacing:2px;
+	margin-right:800px;
+	border:1px solid #424242;
+	background-color:#424242;
+}
+hr{
+	margin-left:100px;
+	margin-right:150px;
+}
+#para3{
+	font-size:25px;
+	margin-left:100px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#contact1,#contact2,#contact3,#contact4{
+	margin-left:120px;	
+}
+.img1,.img2,.img3,.img4{
+	display:flex;
+}
+#p1{
+	margin-top:15px;
+	margin-bottom:0px;
+	margin-left:10px;
+}
+#contact3,#contact4{
+	margin-left:400px;
+	
+}
+.div{
+	height:0px;
+}
+.us{
+	border:2px dashed #D6A09D;
+	width:150px;
+	height:30px;
+	background-color:#EDEDED;
+	display:flex;
+	margin-left:30px;
+	margin-top:5px;
+}
+h2{
+	margin:0px;
+	margin-top:3px;
+	margin-left:20px;
+	
+}
+#us{
+	margin-left:5px;
+	width:20px;
+	height:20px;
+	margin-top:7px;
+	
+	
+}
+ 
+
+#lorem{
+	margin-left:30px;
+	width:300px;
+	margin-bottom:30px;
+}
+.social1,.social2,.social3,.social4{
+	display:flex;
+	height:30px;
+	margin-left:30px;
+}
+#so{
+	margin-left:10px;
+}
+.int{
+	display:flex;
+	margin-left:30px;
+}
+#hrr{
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:15px;
+	margin-bottom:0;
+}
+#mg{
+	margin-left:10px;
+	margin-right:10px;
+}
+.about{
+	margin-left:100px;
+	display:flex;
+	
+
+}
+.education{
+	display:flex;
+	height:700px;
+	
+}
+#edu1{
+	margin:0px;
+	margin-top:-29px;
+	margin-left:26px;
+
+	
+}
+.edu_1{
+	border:1px solid #424242;
+	width:150px;
+	height:30px;
+	background-color:#424242;
+	margin-left:100px;
+	margin-top:20px;
+	color:white;
+}
+.about1{
+	margin-top:0px;
+	background-color:#EDEDED;
+	height:550px;
+}
+.tb{
+	margin-top:50px;
+	margin-left:-150px;
+	font-size:20px;
+}
